@@ -1,7 +1,3 @@
-Certainly! Below is a sample README.md file content that you can include in your project named "Aaharam Restaurant" built using React for the frontend:
-
----
-
 # 𝐀𝐚𝐡𝐚𝐚𝐫𝐚𝐦 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬
 
 Aaharam Restaurant is a full-stack web application built for booking food services. It allows users to browse through various restaurants, view menus, select items, and make reservations.
