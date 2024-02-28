@@ -76,7 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project was inspired by the need for a simple and intuitive platform for booking food services.
 - Special thanks to the developers of React, Node.js, Express.js, and MongoDB for providing the tools and frameworks necessary for building this application.
-
----
-
-Feel free to customize this README according to your project's specific details, such as installation instructions, environment setup, or additional features.
