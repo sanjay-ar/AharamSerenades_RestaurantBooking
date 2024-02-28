@@ -10,6 +10,12 @@ Aaharam Restaurant is a full-stack web application built for booking food servic
 - **Make Reservations:** Users can select items from the menu and make reservations for dining in.
 - **Responsive Design:** The application is designed to work seamlessly across various devices and screen sizes.
 
+## Screenshots and Demo
+
+<div align="center">
+  <img alt="Demo" src="./rest.gif" />
+</div>
+
 ## Technologies Used
 
 - **Frontend:** React.js, HTML, CSS, JavaScript
