@@ -20,9 +20,9 @@ Aaharam Restaurant is a full-stack web application built for booking food servic
 
 - **Frontend:** React.js, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** Firebase
 - **Authentication:** JSON Web Tokens (JWT)
-- **Deployment:** Heroku
+- **Deployment:** Vercel
 
 ## Getting Started
 
