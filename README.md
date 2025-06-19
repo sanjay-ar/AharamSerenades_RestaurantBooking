@@ -73,3 +73,14 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 - This project was inspired by the need for a simple and intuitive platform for booking food services.
 - Special thanks to the developers of React, Node.js, Express.js, and MongoDB for providing the tools and frameworks necessary for building this application.
+
+  ---
+
+### 🚀 Maintained by [Sanjay A R](https://github.com/sanjay-ar)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel)](https://portfolio-ar.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay%20A%20R-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanjay-ar/)  
+[![GitHub](https://img.shields.io/badge/GitHub-sanjay--ar-black?style=flat-square&logo=github)](https://github.com/sanjay-ar)
+
+> 💡 *Like this project? Leave a ⭐ and connect with me!*
+
